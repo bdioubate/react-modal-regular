@@ -11,7 +11,7 @@ var _close = _interopRequireDefault(require("./close.png"));
 
 var Modal = function Modal(_ref) {
   var _ref$message = _ref.message,
-    message = _ref$message === void 0 ? 'Employee created !' : _ref$message;
+    message = _ref$message === void 0 ? 'Write your personalized message !' : _ref$message;
   //CSS
   var containerModalStyles = {
     backgroundColor: 'rgba(0,0,0,0.75)',

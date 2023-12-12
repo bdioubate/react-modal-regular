@@ -3,7 +3,7 @@ import React from "react"
 //assets
 import close from './close.png'
 
-const  Modal = ({ message = 'Employee created !' }) => {
+const  Modal = ({ message = 'Write your personalized message !' }) => {
 
     //CSS
     const containerModalStyles = {
