@@ -14,7 +14,7 @@ Install my-project with npm
 
 ## Usage/Examples
 
-```React
+```Javascript
 
 import Modal from 'react-modal-regular'
 
